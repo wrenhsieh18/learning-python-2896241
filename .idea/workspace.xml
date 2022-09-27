@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="813c4a0b-340b-44ce-a3f7-d6d845bb5825" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/archive.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/newfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/results/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/testzip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3 - Files/textfile.txt.bak" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3 - Files/files_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch3 - Files/files_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3 - Files/ospathutils_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch3 - Files/ospathutils_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch3 - Files/shell_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch3 - Files/shell_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4 - Dates and Times/calendars_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch4 - Dates and Times/calendars_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4 - Dates and Times/challenge_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch4 - Dates and Times/challenge_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4 - Dates and Times/dates_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch4 - Dates and Times/dates_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4 - Dates and Times/formatting_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch4 - Dates and Times/formatting_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch4 - Dates and Times/timedeltas_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch4 - Dates and Times/timedeltas_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5 - Internet Data/inetdata_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch5 - Internet Data/inetdata_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_finished.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +29,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "Console"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Python.htmlparsing_start">
+    <configuration name="htmlparsing_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python-2896241" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5 - Internet Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5 - Internet Data/htmlparsing_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsondata_finished" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python-2896241" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5 - Internet Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_finished.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsondata_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python-2896241" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch5 - Internet Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch5 - Internet Data/jsondata_start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.htmlparsing_start" />
+        <item itemvalue="Python.jsondata_start" />
+        <item itemvalue="Python.jsondata_finished" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

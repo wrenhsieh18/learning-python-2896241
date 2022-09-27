@@ -6,6 +6,8 @@
 
 import urllib.request  # instead of urllib2 like in Python 2.7
 import json
+import ssl
+
 
 
 def printResults(data):
@@ -48,7 +50,8 @@ def main():
     urlData = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson"
 
     # Open the URL and read the data
-    webUrl = urllib.request.urlopen(urlData)
+    context = ssl._create_unverified_context()
+    webUrl = urllib.request.urlopen(urlData, context=context)
     print("result code: " + str(webUrl.getcode()))
     if (webUrl.getcode() == 200):
         data = webUrl.read().decode("utf-8")
